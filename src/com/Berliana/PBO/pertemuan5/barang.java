@@ -1,6 +1,7 @@
 package com.Berliana.PBO.pertemuan5;
 
 public class barang {
+    // attributs
     String nama;
     int harga;
 

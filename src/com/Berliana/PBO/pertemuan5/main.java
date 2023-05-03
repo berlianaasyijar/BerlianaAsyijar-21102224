@@ -3,6 +3,7 @@ package com.Berliana.PBO.pertemuan5;
 public class main {
     public static void main(String[] args) {
 
+        // array keranjang
         barang[] keranjang = new barang[10];
         barang[] etalase = {
                 new barang("Indomie", 2000),
